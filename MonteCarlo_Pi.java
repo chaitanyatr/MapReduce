@@ -1,5 +1,6 @@
 
- import java.io.IOException; import java.util.*;
+// This is a comment
+import java.io.IOException; import java.util.*;
 import java.lang.Object;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.*;
